@@ -1,2 +1,2 @@
 # zk
-Zero Knowledge Learning Material
+Zero knowledge learning material
